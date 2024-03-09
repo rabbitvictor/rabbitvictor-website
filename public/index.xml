@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Víctor Coelho</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Víctor Coelho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Víctor Coelho</copyright>
+    <lastBuildDate>Sat, 09 Mar 2024 00:20:14 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sat, 09 Mar 2024 00:20:14 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>The Builder Design Pattern is used when the object you need to create requires more complex logic to be instantiated.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hello-world/featured.png" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Olá, meu nome é Víctor!</description>
+      
+    </item>
+    
+  </channel>
+</rss>
