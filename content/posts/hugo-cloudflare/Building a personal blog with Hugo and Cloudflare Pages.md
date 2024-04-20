@@ -6,9 +6,13 @@ draft = false
 
 ##  Why am I creating this blog?
 
-I always enjoyed talking about my interests and, lately, I've lacked. I know it sounds cliché, but as a New Year's resolution, I decided to start writing about these interests. In particular, I'm a Software Engineer, so it feels natural to start a blog about my learnings in programming languages, web Development fundamentals and computer science in general. Recently I stumbled upon the idea of [learning in public](https://www.swyx.io/learn-in-public), and it aligns a lot with my expectations for this blog. Also, I do believe in having independent websites — the Internet these days feels monopolized by the big guys — Reddit, Google, Meta, TikTok, and the like making it feel small, and I love the idea of having my own little piece of the internet to talk about anything.
+I always enjoyed talking about my interests and lately I've lacked peers to talk about some of these interests,
+mainly the ones related to computer science and engineering.
+I know it sounds cliché, but as a New Year's resolution, I decided to start writing about these interests.
 
-Anyway, without further ado, let's go to the main topic at hand: the technologies used to create this blog itself!
+In particular, I'm a software engineer, so it feels natural to start a blog about my learnings in programming languages, web development fundamentals and computer science in general. Recently I stumbled upon the idea of [learning in public](https://www.swyx.io/learn-in-public), and it aligns a lot with my expectations for this blog. Also, I do believe in having independent websites — the Internet these days feels monopolized by the big guys — Reddit, Google, Meta, TikTok, and the like making it feel small, and I love the idea of having my own little piece of the internet to talk about anything.
+
+Without further ado, let's get to the main topic at hand: the technologies used to create this blog itself!
 ##  Hugo
 I'm definitely not a front end developer, so the choice for a static site generator (SSG) was obvious to me. I was torn between [Hugo](https://gohugo.io/) and [Jekyll](https://jekyllrb.com/), but ended up choosing Hugo because I really liked the [Blowfish](https://blowfish.page/) theme and the simplicity it offered. I do enjoy writing in Markdown and the flexibility it gives me, so this was another point in favor of SSGs.
 
