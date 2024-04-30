@@ -152,7 +152,7 @@ Compiler plugins are powerful tools that can be used to adapt a compiler to suit
 
 ## Wrapping up
 
-I hope you enjoyed this introduction to Compiler Architecture! It is a complex topic to cover, but one that I really wanted to learn more about. It was specially interesting to delve in the Kotlin compiler implementation and see how a real full-fledged compiler is built. I encourage you to take a look at the [source code for the Kotlin compiler](https://github.com/JetBrains/kotlin/tree/master/compiler — it is less intimidating than it looks!
+I hope you enjoyed this introduction to Compiler Architecture! It is a complex topic to cover, but one that I really wanted to learn more about. It was specially interesting to delve in the Kotlin compiler implementation and see how a real full-fledged compiler is built. I encourage you to take a look at the [source code for the Kotlin compiler](https://github.com/JetBrains/kotlin/tree/master/compiler) — it is less intimidating than it looks!
 
 Until next time!
 ## References and additional material
